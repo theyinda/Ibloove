@@ -1,0 +1,73 @@
+/* GLOBAL STYLES */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: "Mulish", sans-serif;
+  color: #333333;
+
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+i,
+a,
+button {
+  cursor: pointer;
+}
+
+/* NAV STYLES */
+.nav-link {
+  color: #333333 !important;
+  margin-left: 50px;
+}
+.nav-link:active {
+  color: #eda0a8 !important;
+}
+.nav-link:hover {
+  color: #eda0a8 !important;
+}
+
+/* BODY */
+
+/* FOOTER STYLES */
+
+.footer {
+  margin-top: 30px;
+  background: #eda0a8;
+  height: 70px;
+  margin-bottom: 10px;
+}
+
+.container-foot {
+  display: flex;
+  flex-direction: column;
+}
+
+.copyright {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #ffffff;
+  text-align: center;
+  padding-top: 22px;
+}
