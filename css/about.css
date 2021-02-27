@@ -136,44 +136,6 @@ button {
   padding: 15px;
 }
 
-/* .cardTwo h4 {
-  font-style: normal;
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 28px;
-  text-align: center;
-  padding: 10px 0;
-}
-.cardTwo p {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 26px;
-  text-align: center;
-  color: #4f4f4f;
-  width: 350px;
-  padding: 15px;
-}
-
-.cardThree h4 {
-  font-style: normal;
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 28px;
-  text-align: center;
-  padding: 10px 0;
-}
-.cardThree p {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 26px;
-  text-align: center;
-  color: #4f4f4f;
-  width: 350px;
-  padding: 15px;
-} */
-
 .cardOne-img,
 .cardTwo-img,
 .cardThree-img {
@@ -1449,31 +1411,9 @@ button {
     margin-left: 38%;
   }
 
-  /* .searchh {
-    position: absolute;
-    top: 30px;
-    right: 15px;
-    text-align: left;
-    padding-left: 20px;
-    width: 300px;
-    height: 45px;
-    background: #ffffff;
-    box-shadow: 0px 44px 100px rgba(99, 92, 92, 0.25);
-    border-radius: 10px;
-  } */
-  /* .submit-search > i {
-    margin: 20px 24px;
-    position: absolute;
-    top: 25px;
-    right: 45px;
-  } */
-  /* .cancel > i {
-    margin: 20px 24px;
-    position: absolute;
-    top: 25px;
-    right: 15px;
-    color: #c4c4c4;
-  } */
+  .form {
+    display: none;
+  }
 
   .group-img {
     display: none;
