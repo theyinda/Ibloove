@@ -73,8 +73,7 @@ button {
 }
 
 .hero-img {
-  height: 597px;
-  width: 592px;
+  width: 572px;
 }
 .group-imgs {
   position: relative;
@@ -88,7 +87,7 @@ button {
 .group2-img {
   position: absolute;
   bottom: -30px;
-  left: 300px;
+  left: 270px;
   width: 390px;
 }
 
@@ -184,8 +183,7 @@ button {
 }
 
 .update-img {
-  height: 507px;
-  width: 592px;
+  width: 562px;
   margin: 50px 0;
 }
 .event-imgs {
@@ -200,14 +198,14 @@ button {
 .event2-img {
   position: absolute;
   top: 130px;
-  left: 330px;
-  width: 354px;
+  left: 310px;
+  width: 324px;
 }
 .event3-img {
   position: absolute;
   bottom: -50px;
-  left: 310px;
-  width: 390px;
+  left: 280px;
+  width: 380px;
 }
 .event4-img {
   position: absolute;
@@ -1018,7 +1016,7 @@ button {
   }
 
   .plan-img {
-    width: 300px;
+    width: 350px;
   }
 
   .new-header > h4 {
@@ -1209,7 +1207,7 @@ button {
   }
 
   .plan-img {
-    width: 300px;
+    width: 350px;
   }
   .v {
     margin-left: 12%;
